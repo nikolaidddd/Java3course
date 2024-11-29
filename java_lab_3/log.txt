@@ -1,0 +1,80 @@
+
+Event-Accessing File, operation - writing
+Event-Accessing Console Output: 
+Введите путь к файлу журнала
+Event-Accessing File, operation - writing
+Event-Accessing Console Output: 
+1. Ввести массив чисел для расчета в консоль.
+2. Ввести массив чисел из файла.
+3. Завершить работу.
+
+Event-Accessing File, operation - writing
+Event-Accessing Console Output: 
+Введите путь к файлу с данными
+Event-Accessing Array: Accessing Array -'args':10
+Event-Accessing Array: Accessing Array -'args':34
+Event-Accessing Array: Accessing Array -'args':5
+Event-Accessing Array: Accessing Array -'args':4
+Event-Accessing Array: Accessing Array -'args':2
+Event-Accessing File, operation - writing
+Event-Accessing Console Output: Отсортированный массив: [34, 10, 5, 4, 2]
+Event-Accessing File, operation - writing
+Event-Accessing Console Output: 
+1. Ввести массив чисел для расчета в консоль.
+2. Ввести массив чисел из файла.
+3. Завершить работу.
+
+Event-Accessing File, operation - writing
+Event-Accessing Console Output: 
+Введите путь к файлу журнала
+Event-Accessing File, operation - writing
+Event-Accessing Console Output: 
+1. Ввести массив чисел для расчета в консоль.
+2. Ввести массив чисел из файла.
+3. Завершить работу.
+
+Event-Accessing File, operation - writing
+Event-Accessing Console Output: 
+Введите путь к файлу с данными
+Event-Accessing Array: Accessing Array -'args':10
+Event-Accessing File, operation - writing
+Event-Accessing Array: Accessing Array -'args':34
+Event-Accessing File, operation - writing
+Event-Accessing Array: Accessing Array -'args':5
+Event-Accessing File, operation - writing
+Event-Accessing Array: Accessing Array -'args':4
+Event-Accessing File, operation - writing
+Event-Accessing Array: Accessing Array -'args':2
+Event-Accessing File, operation - writing
+Event-Accessing File, operation - writing
+Event-Accessing Console Output: Отсортированный массив: [34, 10, 5, 4, 2]
+Event-Accessing File, operation - writing
+Event-Accessing Console Output: 
+1. Ввести массив чисел для расчета в консоль.
+2. Ввести массив чисел из файла.
+3. Завершить работу.
+
+Event-Accessing File, operation - writing
+Event-Accessing Console Output: 
+Введите путь к файлу журнала
+Event-Accessing File, operation - writing
+Event-Accessing Console Output: 
+1. Ввести массив чисел для расчета в консоль.
+2. Ввести массив чисел из файла.
+3. Завершить работу.
+
+Event-Accessing File, operation - writing
+Event-Accessing Console Output: 
+Введите строку аргументов
+Event-Accessing Array: Accessing Array -'args':12
+Event-Accessing File, operation - writing
+Event-Accessing Array: Accessing Array -'args':4
+Event-Accessing File, operation - writing
+Event-Accessing Array: Accessing Array -'args':2
+Event-Accessing File, operation - writing
+Event-Accessing Array: Accessing Array -'args':6
+Event-Accessing File, operation - writing
+Event-Accessing Array: Accessing Array -'args':47
+Event-Accessing File, operation - writing
+Event-Accessing File, operation - writing
+Event-Accessing Console Output: Отсортированный массив: [47, 12, 6, 4, 2]
